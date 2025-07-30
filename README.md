@@ -6,7 +6,7 @@
 
 [3] Hung Vinh Tran. Hamilton-Jacobi equations. Graduate Studies in Mathematics. Providence, RI: American Mathematical Society, Oct. 2021
 
-[4] Albert Fathi. Weak KAM Theorem in Lagrangian Dynamics. Preliminary Version 10. 2008. URL: https://www.math.u- bordeaux.fr/∼pthieull/Recherche/KamFaible/Publications/Fathi2008 01.pdf
+[4] Albert Fathi. Weak KAM Theorem in Lagrangian Dynamics. Preliminary Version 10. 2008. URL: https://www.math.u-bordeaux.fr/∼pthieull/Recherche/KamFaible/Publications/Fathi2008 01.pdf
 
 [5] Yuan Gao and Jian-Guo Liu. “A Selection Principle for Weak KAM Solutions via Freidlin–Wentzell Large Deviation Principle of Invariant Measures”. In: SIAM Journal on Mathematical Analysis 55.6 (Nov. 2023), pp. 6457–6495. ISSN: 1095-7154. DOI: 10.1137/22m1519717. URL: http://dx.doi.org/10.1137/22M1519717.
 
